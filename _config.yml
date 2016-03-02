@@ -1,0 +1,16 @@
+# Site settings
+title: Introducción a la Programación
+header-img: img/home-bg.jpg
+description: "Este el sitio de la materia Introducción a la Programación"
+baseurl: ""
+url: "http://inpr-sarmiento.github.io/"
+github_username: "inpr-sarmiento"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
