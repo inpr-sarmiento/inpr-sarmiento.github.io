@@ -55,9 +55,9 @@ Entonces, basta de preámbulo, vamos a la posta:
     
         Un **procedimiento** me permite dividir mi **estrategia** en varias partes. 
     
-        Recuerden el nivel 6 del Lightbot, que se ve así:
+        Recuerden el nivel 7 del Lightbot, que se ve así:
     
-        ![Nivel 6](/img/2016-02-29/nivel6.png)
+        ![Nivel 7](/img/2016-02-29/nivel7.png)
     
         Con dos procedimientos: uno que significa "prender 6 luces" y otro que significa "prender las dos de la punta", nuestro programa tiene sólo tres comandos:
     
@@ -68,6 +68,10 @@ Entonces, basta de preámbulo, vamos a la posta:
         Y eso ya resuelve nuestro problema, y **gracias a los procedimientos, podemos leer mejor nuestro programa, y dividir la estrategia en tres partes**.
     
     4. ¡Opa! Un cuarto corolario inesperado: Un programa se escribe para que **un autómata lo ejecute** pero también para que **una persona lo lea**. ¡Estamos escribiendo literatura, también! Bueno, más o menos.
+
+Un pequeño mapa conceptual:
+
+![Mapa Conceptual](/img/2016-02-29/mapaConceptos.png)
 
 ## Tarea Obligatoria para la clase 1 (¡El martes que viene!)
 1. Sólo para Natalia, inscribirse a Mumuki, entrando a este link http://inpr-sarmiento.classroom.mumuki.io/#/courses/2016s1/students y loguearse.
