@@ -9,6 +9,7 @@ author:     "Alf"
 ¡Buenas! Lo prometido es deuda: acá está la bitácora de la "clase 0". Es decir, la clase que organizamos para conocernos, y que con Fede sentimos que fue todo un éxito.
 
 Un éxito porque:
+
 * **Asistencia**: ¡Estuvimos casi todos! Pasó algo raro, que es que tanto Fede como yo estuvimos juntos dando clase (eso no sucederá seguido), y hasta nos visitó Lucrecia (¡Gracias por pasarte!). 
     De las víctimas -estemmm digo, alumnos- estuvieron todos, salvo Natalia (¡No importa, che, nos ponemos a tono rápidamente!). 
     Eso sí, intenten **no perderse ninguna clase**. El curso es intensivo, y si bien haremos lo posible para brindarles material necesario, no se puede confiar en eso.
@@ -24,14 +25,15 @@ Entonces, basta de preámbulo, vamos a la posta:
     Martes de 17hs a 20:45hs (profe: Fede).
     
     Jueves de 17hs a 20:45hs (profe: Alf).
-* La comunicación **oficial** se hará por la lista de mails *obligatoria* <code>inpr-sarmiento@googlegroups.com</code>.
+* La comunicación **oficial** se hará por la lista de mails *obligatoria* [inpr-sarmiento@googlegroups.com](mailto:inpr-sarmiento@googlegroups.com).
 
     Deben revisar su mail *diariamente*.
-* La **referencia** teórica y de material que tendrán, será *esta página actual* <code>http://inpr-sarmiento.github.io</code>
+* La **referencia** teórica y de material que tendrán, será *esta página actual* [http://inpr-sarmiento.github.io](http://inpr-sarmiento.github.io)
 
     Aquí se subirán las **bitácoras** que son resúmenes de clase, los *links* a la *bibliografía*, y a los *tutoriales* de uso de herramientas, etc.
 
 ## Resumen de teoría
+
 * Hicimos un juego en el que Fede era nuestro **autómata** (un "robot" que sabe **ejecutar** un **programa**). El programa lo escribimos en el pizarrón **antes** de que Fede lo siga, y lo que escribimos fue una serie de **comandos**.
    Para decirlo con palabras menos chetas, primero escribimos un montón de flechitas una abajo de la otra en el pizarrón, y cuando le dábamos "play" a Fede, él las leía y daba un paso por cada flechita.
    
@@ -74,9 +76,9 @@ Un pequeño mapa conceptual:
 ![Mapa Conceptual](/img/2016-02-29/mapaConceptos.png)
 
 ## Tarea Obligatoria para la clase 1 (¡El martes que viene!)
-1. Sólo para Natalia, inscribirse a Mumuki, entrando a este link http://inpr-sarmiento.classroom.mumuki.io/#/courses/2016s1/students y loguearse.
-2. Para todos: si no lo hicieron ya, hacer los trece ejercicios de esta guía: http://inpr-sarmiento.mumuki.io/chapters/1-fundamentos
+1. Sólo para Natalia, inscribirse a Mumuki, entrando a este link [http://inpr-sarmiento.classroom.mumuki.io/#/courses/2016s1/students](http://inpr-sarmiento.classroom.mumuki.io/#/courses/2016s1/students) y loguearse.
+2. Para todos: si no lo hicieron ya, hacer los trece ejercicios de esta guía: [http://inpr-sarmiento.mumuki.io/chapters/1-fundamentos](http://inpr-sarmiento.mumuki.io/chapters/1-fundamentos)
     Si tienen algún problema, no duden en preguntar.
-3. Opcionalmente (pero recomendado) es volver a jugar con el Lightbot ó el MyBot, ó con la nueva versión del [Lightbot](https://lightbot.com/hocflash.html)(también está para celu).
+3. Opcionalmente (pero recomendado) es volver a jugar con el Lightbot ó el MyBot, ó con la nueva versión del [Lightbot](https://lightbot.com/hocflash.html) (también está para celu).
 
     De esto, lo más **importante** es la práctica que hagan con el uso de **procedimientos** para resolver cada **parte** de mi **estrategia**.
