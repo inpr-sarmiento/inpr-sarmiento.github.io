@@ -2,7 +2,7 @@
 layout:     post
 title:      "Primeros programas y procedimientos"
 subtitle:   "Bitácora de la clase del martes 15/03/2016"
-date:       2015-03-15 22:10:00
+date:       2016-03-15 22:10:00
 author:     "Fede"
 ---
 

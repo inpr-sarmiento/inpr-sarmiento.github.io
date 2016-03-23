@@ -2,7 +2,7 @@
 layout:     post
 title:      "Bitácora Pre Clase 2016-02-29"
 subtitle:   "Bitácora de la clase del lunes 29/02/2016"
-date:       2015-03-08 15:15:00
+date:       2016-03-08 15:15:00
 author:     "Alf"
 ---
 

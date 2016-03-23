@@ -2,7 +2,7 @@
 layout:     post
 title:      "¡Empezamos!"
 subtitle:   "O cómo usar esta página..."
-date:       2015-03-02 15:15:00
+date:       2016-03-02 15:15:00
 author:     "Fede"
 ---
 
