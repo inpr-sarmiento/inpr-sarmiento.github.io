@@ -12,6 +12,7 @@ En gobstones, esto lo conocemos como `repeat`.
 ### Motivación
 
 Hicimos un procedimiento Poner37Verdes, que hace justamente eso, poner 37 bolitas verdes en el casillero actual. Para ello, no escribimos 37 veces el `Poner` , sino que usamos el `repeat`, que es la nueva herramienta que tenemos.
+
 ```gbs
 program {
   Poner37Verdes()
@@ -46,54 +47,39 @@ Hacer corresponder estos 4 programas con sus tableros finales:
 
 <table><tr>
 <td>
-
-
-  ```gbs
   program {
     Poner(Azul)
     repeat(3){
       Mover(Norte)
     }
   }
-  ```
 </td>
 <td>
-
-
-  ```gbs
   program {
     repeat(3){
       Poner(Azul)
     }
     Mover(Norte)
   }
-  ```
 </td>
 <td>
-
-
-  ```gbs
   program {
     repeat(3){
       Poner(Azul)
       Mover(Norte)
     }
   }
-  ```
 </td>
 <td>
-
-
-  ```gbs
   program {
     repeat(3){
       Mover(Norte)
       Poner(Azul)
     }
   }
-  ```
 </td>
 </tr></table>
+
 **Desordenadas**:
 ![tFinal1.png](/img/2016-03-31/tFinal1.png) ![tFinal2.png](/img/2016-03-31/tFinal2.png) ![tFinal3.png](/img/2016-03-31/tFinal3.png) ![tFinal4.png](/img/2016-03-31/tFinal4.png)
 
