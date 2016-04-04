@@ -11,7 +11,7 @@ En gobstones, esto lo conocemos como `repeat`.
 
 ### Motivación
 
-Hicimos un procedimiento Poner37Verdes, que hace justamente eso, poner 37 bolitas verdes en el casillero actual. Para ello, no escribimos 37 veces el `Poner` , sino que usamos el `repeat`, que es la nueva herramienta que tenemos.
+Hicimos un procedimiento Poner37Verdes, que hace justamente eso, poner 37 bolitas verdes en el casillero actual. Para ello, no escribimos 37 veces el `Poner` , sino que usamos el `repeat`, que es la nueva herramienta que tenemos :sunglasses:.
 
 ```gbs
 program {
