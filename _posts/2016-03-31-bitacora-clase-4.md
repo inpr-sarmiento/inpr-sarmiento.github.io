@@ -11,7 +11,7 @@ En gobstones, esto lo conocemos como `repeat`.
 
 ### Motivación
 
-Hicimos un procedimiento Poner37Verdes, que hace justamente eso, poner 37 bolitas verdes en el casillero actual. Para ello, no escribimos 37 veces el `Poner` , sino que usamos el `repeat`, que es la nueva herramienta que tenemos :sunglasses:.
+Hicimos un procedimiento Poner37Verdes, que hace justamente eso, poner 37 bolitas verdes en el casillero actual. Para ello, no escribimos 37 veces el `Poner` :cold_sweat:, sino que usamos el `repeat`, que es la nueva herramienta que tenemos :sunglasses:.
 
 ```gbs
 program {
@@ -147,7 +147,7 @@ Muchos intentaron hacer el cuadrado _en un tablero de 5x5_, pero tenían el prob
 Hicimos un pequeño apartado en el que hablamos sobre los nombres.
 Por ejemplo, si quiero
 
-| Si queremos | Le ponemos | Pero no le ponemos | y tampoco |
+| Si queremos | :white_check_mark: Le ponemos | :x: Pero no le ponemos | :x: y tampoco |
 |---|---|
 | Un procedimiento que se llame "Mover hacia arriba" |  `MoverHaciaArriba` | `Moverhaciaarriba` (porque debemos  separar visualmente las palabras) |  `moverHaciaArriba` (porque un procedimiento debe empezar con mayúscula) |
 | Un parámetro que se llame "cantidad de pasos" |  `cantidadDePasos` | `cantidaddepasos` (porque debemos  separar visualmente las palabras)  | `CantidadDePasos`  (porque los parámetros comienzan con minúscula) |
