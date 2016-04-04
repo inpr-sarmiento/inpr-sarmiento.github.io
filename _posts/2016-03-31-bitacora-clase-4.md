@@ -45,38 +45,38 @@ Dijimos también que la repetición simple cambia el **flujo de ejecución**. An
 
 Hacer corresponder estos 4 programas con sus tableros finales:
 
-<table><tr>
+<table style="font-family:monospace; font-size: small"><tr>
 <td>
-  program {
-    Poner(Azul)
-    repeat(3){
-      Mover(Norte)
-    }
-  }
+program { <br/>
+&nbsp;Poner(Azul)<br/>
+&nbsp;repeat(3){<br/>
+&nbsp;&nbsp;Mover(Norte)<br/>
+&nbsp;}<br/>
+}
 </td>
 <td>
-  program {
-    repeat(3){
-      Poner(Azul)
-    }
-    Mover(Norte)
-  }
+program {<br/>
+&nbsp;repeat(3){<br/>
+&nbsp;&nbsp;Poner(Azul)<br/>
+&nbsp;}<br/>
+&nbsp;Mover(Norte)<br/>
+}
 </td>
 <td>
-  program {
-    repeat(3){
-      Poner(Azul)
-      Mover(Norte)
-    }
-  }
+program {<br/>
+&nbsp;repeat(3){<br/>
+&nbsp;&nbsp;Poner(Azul)<br/>
+&nbsp;&nbsp;Mover(Norte)<br/>
+&nbsp;}<br/>
+}
 </td>
 <td>
-  program {
-    repeat(3){
-      Mover(Norte)
-      Poner(Azul)
-    }
-  }
+program {<br/>
+&nbsp;repeat(3){<br/>
+&nbsp;&nbsp;Mover(Norte)<br/>
+&nbsp;&nbsp;Poner(Azul)<br/>
+&nbsp;}<br/>
+}
 </td>
 </tr></table>
 
