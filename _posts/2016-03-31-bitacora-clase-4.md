@@ -94,6 +94,7 @@ program {<br/>
 ![cuadrado.png](/img/2016-03-31/cuadrado.png)
 
 Se nos ocurrieron **dos posibles estrategias**.
+
 * La primera, hacer un zigzag hacia arriba. Como si fuera una impresora, imprimo hacia el Este, subo, e imprimo hacia el Oeste, y así.
 * La segunda estrategia es la que elegimos, porque **aprovecha que algo se repita**. Es así: Dibujo una línea, vuelvo sin dibujar, y subo. Y así.
 
