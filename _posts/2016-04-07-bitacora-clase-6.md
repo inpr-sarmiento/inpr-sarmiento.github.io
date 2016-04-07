@@ -18,24 +18,16 @@ Hoy hicimos los siguientes ejercicios:
 1. Hacer el procedimiento `SacarTodas(color)` que saca todas las bolitas del casillero actual que son del `color` indicado.
 
 1. Decir qué hace lo siguiente:
-```gbs
-
-program {
-
-	PonerN(nroBolitas(Verde), Negro)
-
-	Mover(Este)
-
-	PonerN(nroBolitas(Verde), Negro)
-
-	PonerN(nroBolitas(Rojo), Negro)
-
-	Mover(Este)
-
-	PonerN(nroBolitas(Azul), Negro)
-
+<div style="font-family:monospace; font-size: small">
+program { <br/>
+&nbsp;PonerN(nroBolitas(Verde), Negro)<br/>
+&nbsp;Mover(Este)<br/>
+&nbsp;PonerN(nroBolitas(Verde), Negro)<br/>
+&nbsp;PonerN(nroBolitas(Rojo), Negro)<br/>
+&nbsp;Mover(Este)<br/>
+&nbsp;PonerN(nroBolitas(Azul), Negro)<br/>
 }
-```
+</div>
 ![evaluar.png](/img/2016-04-07/evaluar.png)
 
 1. `DuplicarCelda()`, que duplica todos los colores.
