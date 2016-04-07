@@ -19,13 +19,21 @@ Hoy hicimos los siguientes ejercicios:
 
 1. Decir qué hace lo siguiente:
 ```gbs
+
 program {
+
 	PonerN(nroBolitas(Verde), Negro)
+
 	Mover(Este)
+
 	PonerN(nroBolitas(Verde), Negro)
+
 	PonerN(nroBolitas(Rojo), Negro)
+
 	Mover(Este)
+
 	PonerN(nroBolitas(Azul), Negro)
+
 }
 ```
 ![evaluar.png](/img/2016-04-07/evaluar.png)
