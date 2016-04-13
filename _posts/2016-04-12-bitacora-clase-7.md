@@ -7,7 +7,7 @@ author:     "Fede"
 ---
 
 ### Avisos parroquiales
-- Algunos vienen flojos con la tarea, es más o menos momento de preocuparse. Muchos se estuvieron poniendo al día, bien.
+Algunos vienen flojos con la tarea, es más o menos momento de preocuparse. Muchos se estuvieron poniendo al día, bien. Si la planilla está desactualizada, griten (y después manden un mail, así nos enteramos :stuck_out_tongue:).
 
 ### Tarea - errores comunes
 - Sólo 4 personas entregaron, feo.
