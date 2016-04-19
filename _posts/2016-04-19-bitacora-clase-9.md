@@ -92,5 +92,7 @@ function hayBolitasAl(dir, color) {
 
 Pero, si el `return` tiene que ser la última línea entonces ¿cómo hago para volver? El punto es que no hace falta, porque como dijimos recién las funciones son limpias o **puras**, en el sentido de que al terminar **deshacen los efectos** producidos sobre el tablero.
 
-* Ejercitamos todo esto haciendo todos los ejercicios de la página 2, guía 4.
-* Quedaron como tarea los ejercicios del 10 al 14 de Farmville (o sea, los que piden funciones).
+Ejercitamos todo esto haciendo todos los ejercicios de la página 2, guía 4.
+
+### Tarea
+Quedaron como tarea los ejercicios del 10 al 14 de Farmville (o sea, los que piden funciones).
