@@ -15,6 +15,8 @@ En esta sección encontrarán material para seguir la cursada.
 [Guia 2 - Repetición y Parámetros](/assets/material/Guía 2 Ejercicios - Repetición y Parámetros.pdf)
 <br>
 [Guía 3 - Alternativa y expresiones](/assets/material/Guía 3 Ejercicios - Alternativa y expresiones.pdf)
+<br>
+[Guía 4 (Parte 2) - Recorridos y funciones](/assets/material/Guía 4 Ejercicios  Parte 2 - Recorridos y funciones.pdf)
 
 ## Prácticas
 [Práctica 3 - Repetición indexada y alternativa condicional](/assets/material/Practica3-repeticion-indexada-y-alternativa-condicional)
