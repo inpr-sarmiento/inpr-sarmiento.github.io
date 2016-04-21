@@ -16,6 +16,8 @@ En esta sección encontrarán material para seguir la cursada.
 <br>
 [Guía 3 - Alternativa y expresiones](/assets/material/Guía 3 Ejercicios - Alternativa y expresiones.pdf)
 <br>
+[Guía 4 (Parte 1) - Repetición Condicional](/assets/material/Guía 4 Ejercicios  Parte 1 - Repetición Condicional.pdf)
+<br>
 [Guía 4 (Parte 2) - Recorridos y funciones](/assets/material/Guía 4 Ejercicios  Parte 2 - Recorridos y funciones.pdf)
 
 ## Prácticas
