@@ -61,7 +61,7 @@ function haySoldadoALaVista(dir, colorEjercito){
   return (haySoldadoDe(color))
 }
 
-function haySoldadoDe(dir,color){
+function haySoldadoDe(color){
   return (hayBolitas(color))
 }
 ```
