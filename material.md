@@ -7,7 +7,7 @@ permalink: /material/
 En esta sección encontrarán material para seguir la cursada.
 
 ## Referencia
-[Gobstones - Biblioteca Machete (v1.0)](/assets/material/Gobstones - Guía Biblioteca Machete - Inpr-Sarmiento - v1.0.pdf) - **Ojo** que va a haber nuevas versiones
+[Gobstones - Biblioteca Machete (v1.1)](/assets/material/Gobstones - Guía Biblioteca Machete - Inpr-Sarmiento - v1.1.pdf) - **Ojo** que va a haber nuevas versiones
 
 ## Guías de ejercicios complementarias
 [Guia 1 - Ejercicios iniciales](/assets/material/Guía 1 Ejercicios - Iniciales.pdf)
