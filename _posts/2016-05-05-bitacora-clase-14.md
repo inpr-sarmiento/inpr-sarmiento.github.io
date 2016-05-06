@@ -10,9 +10,10 @@ author:     "Alf"
 
 Buenas!
 
-Antes que nada, recuerden que les subí el nuevo machete oficial en la sección de (material)[/material/].
+Antes que nada, recuerden que les subí el nuevo **machete oficial** (v1.1) en la sección de [material](/material/).
 
 Hoy continuamos con los ejercicios que dejó Fede de la Guía 5:
+
 * Ejercicio 6: `nroBolitasAlSiHay(dir,col)`
 * Ejercicio 7: `nroBolitasEnVecinas(col)`
 * Ejercicio 8: `nroBolitasYoYMisVecinos(col)`
