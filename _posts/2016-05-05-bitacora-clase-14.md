@@ -80,7 +80,8 @@ function montoApostado(){
 ```
 
 Acá es importante notar la **estrategia de recorrido completo**:
-```
+
+```gbs
 while( puedo dar un paso ){
   procesar la celda actual
   dar un paso
