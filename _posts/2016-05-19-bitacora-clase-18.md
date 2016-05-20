@@ -149,7 +149,7 @@ Antes `colorEq1` llegaba por parámetro. Pero ahora ¡Por parámetro llega `elPa
 
 **¿Dónde está colorEq1?** -> Está **dentro del partido**.
 
-Lo que es interesante de saber, es que cuando escribimo `type Partido is record {...` **se generan automáticamente cuatro funciones** que me permiten **acceder** al registro:
+Lo que es interesante de saber, es que cuando escribimos `type Partido is record {...` **se generan automáticamente cuatro funciones** que me permiten **acceder** al registro:
 
 * La función `colorEq1(partido)`, que _saca_ el color del equipo 1 _de adentro_ del partido, y me devuelve ese color.
 * La función `colorEq2(partido)`, que _saca_ el color del equipo 2 _de adentro_ del partido, y me devuelve ese color.
@@ -216,7 +216,7 @@ function empato(partido){
 
 En la sección de [material](/material/) les acabo de subir:
 
-* los [apuntes teóricos de la UNQ](/assets/material/Practica7-Registros.pdf)
+* los [apuntes teóricos de la UNQ](/assets/material/teoria-registros.pdf)
 * la [Práctica de registros de la UNQ](/assets/material/Practica7-Registros.pdf), para que tengan ejercicios para practicar.
 
 ### Tarea
