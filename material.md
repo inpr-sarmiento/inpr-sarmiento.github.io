@@ -21,8 +21,15 @@ En esta sección encontrarán material para seguir la cursada.
 [Guía 4 (Parte 2) - Recorridos y funciones](/assets/material/Guía 4 Ejercicios  Parte 2 - Recorridos y funciones.pdf)
 <br>
 [Funciones con recorridos - Unitarios y federales](/assets/material/Unitarios y federales - while.pdf)
-<br>
 [Guía 5 - Variables](/assets/material/Guía 5 Ejercicios - Variables.pdf)
+<br>
+
+## Teoría
+
+[Teoría Registros](/assets/material/teoria-registros.pdf)
+<br>
 
 ## Prácticas
-[Práctica 3 - Repetición indexada y alternativa condicional](/assets/material/Practica3-repeticion-indexada-y-alternativa-condicional)
+[Práctica 3 - Repetición indexada y alternativa condicional](/assets/material/Practica3-repeticion-indexada-y-alternativa-condicional.pdf)
+<br>
+[Práctica 7 - Registros](/assets/material/Practica7-Registros.pdf)
