@@ -168,7 +168,7 @@ type Memoria is record {
 3. Hacer la función `pcTranca()` que denote una computadora de escritorio con una RAM de 4Gb y 800 MHz de velocidad, un disco de 500 Gb y un procesador Intel de 2 núcleos con 1600 MHz de velocidad.
 4. Hacer la función `estaBienArmada(unaCompu)` que reciba una computadora y diga si está bien armada. Esto sucede cuando la velocidad del procesador es la misma que la velocidad de la memoria. Ojo, las notebooks están siempre bien armadas, sin importar las velocidades.
 5. Hacer la función `velocidadReal(unaCompu)` que reciba una compu y diga la velocidad real, que es el mínimo entre las velocidades de la RAM y el procesador.
-6. Hacer la función `duplicarMemoria(unaRAM, unTamanio)` que reciba una memoria y un tamanio y _cambie_ el tamanio de la RAM al doble.
+6. Hacer la función `duplicarMemoria(unaRAM)` que reciba una memoria y _cambie_ el tamanio de la RAM al doble.
 7. Hacer la función `cambiarProcesador(unaCompu,unProcesador)` que reciba una compu y un procesador y _cambie_ el procesador por el indicado.
 8. Hacer la función `cambiarMemoria(unaCompu,unaMemoria)` que reciba una compu y una Memoria y _cambie_ la memoria entera por la indicada.
 9. Hacer la función `overclockear(unaCompu)` que reciba una compu y aumente la velocidad de su procesador en 300 MHz. (debe denotarse la compu).
