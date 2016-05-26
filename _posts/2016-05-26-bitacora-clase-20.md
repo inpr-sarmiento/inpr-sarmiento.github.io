@@ -25,7 +25,6 @@ Cuando yo pregunto `esDiaMasAntiguo(otraFecha,revolucionDeMayo)` denota `True`.
 10. `corregirAnioNacimiento(unEstudiante, nuevoAnio)` que denota el mismo estudiante pero con el anio en el que nació corregido con el `nuevoAnio`.
 11. `yaPasoElCumpleDe(unEstudiante)` denota verdadero si ya pasó **el cumple de este año** del estudiante en cuestión. Cuidado: va a haber que _modificar_ la fecha de nacimiento del cumple.
 
-<!---
 ### Soluciones propuestas puntos 1 al 5
 
 * Punto 1:
@@ -85,6 +84,7 @@ es lo mismo que:
 return (Fecha(dia <- 20, mes <- 09, anio <- elAnio))
 ```
 
+<!---
 * Punto 4:
 
 ```gbs
