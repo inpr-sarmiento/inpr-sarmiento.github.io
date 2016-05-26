@@ -23,7 +23,7 @@ Cuando yo pregunto `esDiaMasAntiguo(otraFecha,revolucionDeMayo)` denota `True`.
 8. `aprobarMateria(unEstudiante)` recibe un estudiante y _lo modifica_, agregándole una materia aprobada. O sea, devuelve un estudiante nuevo que es igual al original, salvo que tiene una materia aprobada más.
 9. `cambioDeSexo(unEstudiante)` recibe un estudiante y lo hace más feliz: el estudiante descubrió que en realidad es del sexo opuesto y quiere cambiárselo, así que la función devuelve el estudiante con el sexo cambiado.
 10. `corregirAnioNacimiento(unEstudiante, nuevoAnio)` que denota el mismo estudiante pero con el anio en el que nació corregido con el `nuevoAnio`.
-11. `yaPasoElCumpleDe(unEstudiante)` denota verdadero si ya pasó **el cumple de este año** del estudiante en cuestión. Cuidado: va a haber que _modificar_ la fecha de nacimiento del cumple.
+11. `yaPasoElCumpleDe(unEstudiante)` denota verdadero si ya pasó **el cumple de este año** del estudiante en cuestión.
 
 ### Soluciones propuestas puntos 1 al 5
 
@@ -84,7 +84,7 @@ es lo mismo que:
 return (Fecha(dia <- 20, mes <- 09, anio <- elAnio))
 ```
 
-<!---
+
 * Punto 4:
 
 ```gbs
@@ -127,18 +127,20 @@ function nuevoIngresante(dni, fechaNac, sexo){
 
 ¿Cuál es la diferencia entre esos dos **dni**? Fácil: recordemos que la sintaxis es:
 
-´nombreDelCampo <- valor´
+`nombreDelCampo <- valor`
 
 Entonces, el que está a la **izquierda** es el nombre del **campo** donde estoy queriendo poner el valor, y el que está a la **derecha** es el **nuevo valor** que me viene por parámetro.
 
 #### Bonus
 
 Una nueva versión de `esDiaMasAntiguo`, usando la siguiente estrategia: Para saber si el dia es más antiguo que el otro, puedo cambiar los años de las fechas para que sean iguales, y luego usar la función `esMasAntigua`, que recibe dos fechas y me dice cuál es la más antigua. Ella es la encargada de revisar el día y el mes. ¡Ya lo habíamos hecho la clase pasada!
+
+```gbs
 /* Versión 2, reeee fumeta BONUS considerando temas que vienen después: */
 function esDiaMasAntiguo(fechaA,fechaB){
   return esMasAntigua(Fecha( dia <- dia(fechaA), mes <- mes(fechaA) , anio <- anio(fechaB)) , fechaB),
 }
--->
+```
 
 ### Cambiando el dominio: Compus
 
