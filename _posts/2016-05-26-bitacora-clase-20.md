@@ -11,7 +11,7 @@ author:     "Alf"
 1. `esDiaMasAntiguo(fechaA,fechaB)` denota verdadero cuando la fecha A es más antigua que la fecha B, pero **sin mirar el año**, sólo mirando el mes y el día.
 Ejemplo: Si tengo
 `revolucionDeMayo := Fecha(dia <- 25, mes <- 5, anio <- 1810)`
-`otraFecha := Fecha(dia <- 31, mes <- enero, anio <- 2016)`
+`otraFecha := Fecha(dia <- 31, mes <- 1, anio <- 2016)`
 Cuando yo pregunto `esDiaMasAntiguo(otraFecha,revolucionDeMayo)` denota `True`.
 2. `cuantosAniosPasaron(fecha1, fecha2)`. Contemplar la posibilidad de que todavía no haya llegado la fecha. _Precondición:_ `fecha2` está después que `fecha1`. _¡Es el punto 9 del martes pasado! Pero ahora es obligatorio contemplar no haber llegado a la fecha._
   Por ejemplo, entre el 25/05/2013 y el 01/05/2016 pasaron 2 años (el 25/05 van a haber pasado 3).
