@@ -113,11 +113,33 @@ function yo(){
 
 * Punto 6:
 
+Acá es importante entender que recibo por parámetro **partecitas de un estudiante**, y debo **devolver un estudiante entero**.
+
+![nuevoIng2.jpg](/img/2016-05-26/nuevoIng2.jpg)
+
 ```gbs
 function nuevoIngresante(dni, fechaNac, sexo){
   return Estudiante(dni <- dni, fechaNacimiento <- fechaNac, esMujer <- sexo, nroMateriasAprobadas <- 0)
 }
 ```
+
+![nuevoIng.jpg](/img/2016-05-26/nuevoIng.jpg)
+
+* Punto 7:
+
+![ingGemelo.jpg](/img/2016-05-26/ingGemelo.jpg)
+
+* Punto 10:
+
+![corregir.jpg](/img/2016-05-26/corregir.jpg)
+
+Acá es importante notar que **no se puede escribir** `dia(unEstudiante)` ¡Porque el estudiante no tiene dias! Su **fechaNacimiento** tiene dia.
+
+![diaAlf.jpg](/img/2016-05-26/diaAlf.jpg)
+
+* Punto 11:
+
+![pasoCumple.jpg](/img/2016-05-26/pasoCumple.jpg)
 
 Acá es importante mirar esta parte:
 
@@ -165,11 +187,19 @@ type Memoria is record {
 ```
 1. Hacer las funciones `colorARM()`, `colorIntel()`, `colorAMD()` que denoten los colores correspondientes.
 2. Hacer la función `notebookGrosa()` que denote una computadora que es una notebook con una RAM de 8Gb y 1200 MHz de velocidad, un disco de 500 Gb y un procesador AMD de 4 núcleos con 2300 MHz de velocidad.
+![grosa.jpg](/img/2016-05-26/grosa.jpg)
 3. Hacer la función `pcTranca()` que denote una computadora de escritorio con una RAM de 4Gb y 800 MHz de velocidad, un disco de 500 Gb y un procesador Intel de 2 núcleos con 1600 MHz de velocidad.
+![tranca.jpg](/img/2016-05-26/tranca.jpg)
 4. Hacer la función `estaBienArmada(unaCompu)` que reciba una computadora y diga si está bien armada. Esto sucede cuando la velocidad del procesador es la misma que la velocidad de la memoria. Ojo, las notebooks están siempre bien armadas, sin importar las velocidades.
 5. Hacer la función `velocidadReal(unaCompu)` que reciba una compu y diga la velocidad real, que es el mínimo entre las velocidades de la RAM y el procesador.
-6. Hacer la función `duplicarMemoria(unaRAM)` que reciba una memoria y _cambie_ el tamanio de la RAM al doble.
-7. Hacer la función `cambiarProcesador(unaCompu,unProcesador)` que reciba una compu y un procesador y _cambie_ el procesador por el indicado.
-8. Hacer la función `cambiarMemoria(unaCompu,unaMemoria)` que reciba una compu y una Memoria y _cambie_ la memoria entera por la indicada.
+6. Hacer la función `duplicarMemoria(unaRAM)` que reciba una memoria y _cambie_ el tamanio de la RAM al doble. (debe denotarse la memoria).
+7. Hacer la función `cambiarProcesador(unaCompu,unProcesador)` que reciba una compu y un procesador y _cambie_ el procesador por el indicado. (debe denotarse la compu).
+8. Hacer la función `cambiarMemoria(unaCompu,unaMemoria)` que reciba una compu y una Memoria y _cambie_ la memoria entera por la indicada. (debe denotarse la compu).
 9. Hacer la función `overclockear(unaCompu)` que reciba una compu y aumente la velocidad de su procesador en 300 MHz. (debe denotarse la compu).
 10. Hacer la función `quemarMemoria(unaCompu)` que reciba una compu y disminuya a la mitad el tamanio de la memoria (debe denotarse la compu)
+
+### Tarea
+
+¡Volvió la tarea en forma de fichas! Deben hacer hasta el **punto 7 inclusive** de lo de las compus, se entrega todo por mail. Si quieren pueden entregar más.
+
+¡Si se traban manden un mail! ¡Ó se ayudan! ¡O Whatsapp a Alf! ¡Ni lo duden!
