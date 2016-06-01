@@ -8,11 +8,11 @@ author:     "Fede"
 
 ### Objetivos de la clase
 
-* Introducir la noción de listas, como secuencia ordenada de elementos del mismo tipo.
-* Contar que en Gobstones las listas también son inmutables.
+* Introducir la noción de listas, como **secuencia ordenada de elementos del mismo tipo**.
+* Contar que en Gobstones las listas también son **inmutables**.
 * Mostrar cómo **construirlas**, con el literal `[]` y la concatenación `++`.
 * Mostrar cómo **proyectarlas**, usando `head`, `tail`, `last` e `init`.
-* Ver cómo recorrer una lista usando `while`.
+* Ver cómo **recorrer** una lista usando `while`.
 
 ### Constructores y proyectores
 
