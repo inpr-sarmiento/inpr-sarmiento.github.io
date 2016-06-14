@@ -8,6 +8,8 @@ En esta sección encontrarán material para seguir la cursada.
 
 ## Referencia
 [Gobstones - Biblioteca Machete (v1.2)](/assets/material/Gobstones - Guía Biblioteca Machete - Inpr-Sarmiento - v1.2.pdf) - **Ojo** que va a haber nuevas versiones
+<br>
+[Esquemas de recorridos sobre listas](/assets/material/Recorridodelistas-Esquemas.pdf)
 
 ## Guías de ejercicios complementarias
 [Guia 1 - Ejercicios iniciales](/assets/material/Guía 1 Ejercicios - Iniciales.pdf)
@@ -21,6 +23,7 @@ En esta sección encontrarán material para seguir la cursada.
 [Guía 4 (Parte 2) - Recorridos y funciones](/assets/material/Guía 4 Ejercicios  Parte 2 - Recorridos y funciones.pdf)
 <br>
 [Funciones con recorridos - Unitarios y federales](/assets/material/Unitarios y federales - while.pdf)
+<br>
 [Guía 5 - Variables](/assets/material/Guía 5 Ejercicios - Variables.pdf)
 <br>
 
