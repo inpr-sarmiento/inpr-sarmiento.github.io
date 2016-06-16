@@ -24,7 +24,7 @@ author:     "Alf"
 7. `losLindos(colores)` - recibe una lista de colores y denota una lista con los colores lindos de la lista original. El Azul es un color feo, los demás son lindos. Por ejemplo, `losLindos([Rojo, Rojo, Azul, Verde, Azul])` denota la lista `[Rojo,Rojo,Verde]`.
 8. `losPares(nros)` - recibe una lista de números, y denota una lista conteniendo sólo los números pares de la lista original.
 9. `tripleDeLosMenoresA(numero,nros)` - recibe un número y una lista de números y retorna una lista, cuyos elementos son el triple de cada elemento menor al indicado. Por ejemplo `tripleDeLosMenoresA(6,[3,8,4,7])` denota la lista `[9,12]`.
-10. `fuerzaDeLosLindos(nros)` - recibe una lista de colores, y denota la fuerza de cada uno de los colores lindos de la lista original.
+10. `fuerzaDeLosLindos(colores)` - recibe una lista de colores, y denota la fuerza de cada uno de los colores lindos de la lista original.
 11. ¡No todo son recorridos! Hacer la función `multiplosDe3Hasta(tope)` - devuelve la lista de los múltiplos de 3 empezando de 0 hasta llegar al tope. Por ejemplo, `multiplosDe3Hasta(14)` da la lista `[0,3,6,9,12]`.
 
 
