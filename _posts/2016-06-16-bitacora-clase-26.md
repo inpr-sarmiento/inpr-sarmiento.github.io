@@ -32,7 +32,7 @@ type Ingrediente is record {
 1. Hacer la función `encontrarProducto(productos, id)` que recibe una lista de productos y un id de producto y denota el producto (_registro entero_) que tiene ese id. _Precondición: Hay un y sólo un producto con ese id en la lista_
 1. Hacer la función `ingredienteCalorico(ingredientes)` que recibe una lista de ingredientes y denota el primer ingrediente (_registro entero_) que tiene más de 100 calorías totales.
 1. Hacer la función `productoDeMasDe(productos,valor)` que recibe la lista de productos y un valor y denota el primer producto cuyo precio es mayor al `valor`.
-1. Hacer la función `cantIngredientesDelProducto(producto, id)` que recibe una lista de productos y un id de producto y denota la cantidad de ingredientes que tiene.
+1. Hacer la función `cantIngredientesDelProducto(productos, id)` que recibe una lista de productos y un id de producto y denota la cantidad de ingredientes que tiene.
 1. Hacer la función `ingredienteConGrasa(producto)` que recibe _un producto_ y denota el primer _ingrediente_ que tiene grasa. _Precondición: El producto tiene varios ingredientes, uno de los cuales tiene grasa_
 
 ### Alguno cumple....
