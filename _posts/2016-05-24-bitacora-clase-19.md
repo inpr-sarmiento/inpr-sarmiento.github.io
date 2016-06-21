@@ -6,7 +6,7 @@ date:       2016-05-24 15:30:00
 author:     "Fede"
 ---
 
-# Práctica complementaria Registros
+# Práctica Universidad - registros
 
 ### Parte 1: más sobre registros
 
