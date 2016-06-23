@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      'Búsquedas'
+title:      'Modificaciones de listas'
 subtitle:   "Bitácora de la clase del jueves 23/06/2016"
 date:       2016-06-23 13:17:00
 author:     "Alf"
