@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      ''
+title:      'Alguno cumple, todos cumplen, máximos, mínimos'
 subtitle:   "Bitácora de la clase del martes 21/06/2016"
 date:       2016-06-21 13:17:00
 author:     "Fede"
@@ -10,7 +10,6 @@ author:     "Fede"
 
 * Les volví a contar el "truquito" - o _syntax sugar_ - para modificar un registro, usando la famosa barrita (a veces se la suele llamar _pipe_, por su nombre en inglés): `|`.
 * Repasamos todos los esquemas de recorrido, algunos que ya habíamos visto y otros que no.
-* 
 
 ### Fotos del pizarrón
 
