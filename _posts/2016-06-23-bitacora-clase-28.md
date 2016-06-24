@@ -39,3 +39,36 @@ Producto(id<-5, precio<-55, ingredientes<-[
   Ingrediente(tipo<-Rojo,gramos<-20,caloriasPorGramo<-6)
 ])
 ```
+
+Van las soluciones que hicimos en clase:
+
+* Punto 2 `quemarPrimerPixel`
+![quemar.jpg](/img/2016-06-23/quemar.jpg)
+
+Recordemos que `... ++ tail(porRec)` lo que hace es concatenar a la lista de `quemados` **el resto de la lista sin recorrer**. Se pone el tail porque se desea evitar poner el `Rojo` encontrado.
+
+Además, es importante recordar **el caso borde**, que es considerar que **puede no haber ningún rojo**, entonces hay que poner un `ìf` para que sólo añada el `[Negro]` cuando hayamos encontrado algo.
+
+* Punto 3 `sacarPrimeraOcurrencia`
+![sacarOcurrengia.jpg](/img/2016-06-23/sacarOcurrengia.jpg)
+
+Acá recuerden mirar también el caso borde.
+
+* Punto 5 `hacerLight`
+
+Entendamos la estructura primero (qué recibo y qué devuelvo):
+![pto5-0.jpg](/img/2016-06-23/pto5-0.jpg)
+
+Luego comenzamos entendiendo que es una **modificación de registro**, donde hay que **delegar la modificación de la lista**
+![pto5-1.jpg](/img/2016-06-23/pto5-1.jpg)
+
+Luego la **modificación de la lista** delega en la **modificación deun registro ingrediente**
+![pto5-2.jpg](/img/2016-06-23/pto5-2.jpg)
+
+Y finalmente se hace la modificación de un registro **ingrediente**
+![pto5-3.jpg](/img/2016-06-23/pto5-3.jpg)
+
+### Tarea
+
+1. Realizar _en papel_ el enunciado de parcial del padrón/distrito.
+2. Completar la tarea que se debe. ¡Mirar en seguimiento!
