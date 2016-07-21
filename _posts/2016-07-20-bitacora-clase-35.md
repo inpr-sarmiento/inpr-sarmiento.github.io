@@ -14,7 +14,7 @@ author:     "Alf"
 
 ¿Vieron que se puede?
 
-Todos programan ahora. De ahora en más aprender lenguajes les va a costar cada vez menos, porque tienen **los conceptos**, que es lo importante.
+Todos programan ahora. De ahora en más aprender más sobre programación les va a costar cada vez menos, porque tienen **los conceptos**, que es lo importante.
 
 ![aldemonio.jpg](/img/2016-07-20/aldemonio.jpg)
 
@@ -26,6 +26,7 @@ _Entonces... ¿Se terminó? ¡Se acabó! ¡Vete al demonio Krabappel!_
 * Que deleguen y **dividan en subtareas**. :sunglasses:
 * Que **no repitan** código (y usen las abstracciones existentes). :cat::gun:
 * Que pongan **buenos nombres** (que hagan código expresivo). :sweat:
+* ¡Que piensen! ¡Que usen su **criterio**!
 
 ¿Por qué se les va a pedir esto? Porque en su vida profesional ayuda a construir software de **calidad** :gem:, **flexible** :dancers: y **robusto** :muscle:.
 
@@ -48,5 +49,9 @@ Gran comienzo de carrera, los felicitamos por la garra, los huevos, y los sacrif
 Con cariño,
 
 Fede y Alf
+
+![cena.jpg](/img/2016-07-20/cena.jpg)
+![concentrados.jpg](/img/2016-07-20/concentrados.jpg)
+
 
 :clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap:
