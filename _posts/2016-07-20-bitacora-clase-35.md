@@ -10,6 +10,8 @@ author:     "Alf"
 
 ### **¡BIEN, CARAJO!**
 
+:clap::clap::clap::clap::clap::clap::clap::clap::clap::clap:
+
 ¿Vieron que se puede?
 
 Todos programan ahora. De ahora en más aprender lenguajes les va a costar cada vez menos, porque tienen **los conceptos**, que es lo importante.
@@ -20,16 +22,16 @@ _Entonces... ¿Se terminó? ¡Se acabó! ¡Vete al demonio Krabappel!_
 
 **Maso**. Bah, **no**. No se terminó. Esto recién empieza. En toda la carrera se les va a pedir:
 
-* Que piensen la **estrategia**.:think:
-* Que deleguen y **dividan en subtareas**.
+* Que piensen la **estrategia**. :suspect:
+* Que deleguen y **dividan en subtareas**. :sunglasses:
 * Que **no repitan** código (y usen las abstracciones existentes). :cat::gun:
-* Que pongan **buenos nombres** (que hagan código expresivo).
+* Que pongan **buenos nombres** (que hagan código expresivo). :sweat:
 
-¿Por qué se les va a pedir esto? Porque en su vida profesional ayuda a construir software de **calidad**, **flexible** y **robusto**.
+¿Por qué se les va a pedir esto? Porque en su vida profesional ayuda a construir software de **calidad** :gem:, **flexible** :dancers: y **robusto** :muscle:.
 
 Bueno, y siempre van a usar ideas como _tipo_, _lista_, _registro_, _variable_, _procedimiento_, _función_, _recorrido_, _instrucción_, _alternativa condicional_, _repetición_, _filtro_, _recolección_, _búsqueda_ .... ¡AGH! ¡Es _BOCHA_ lo que saben! Pero fuera de estas cosas, la lista de arriba es la importante.
 
-...
+:grin:
 
 Fue una experiencia inolvidable, gente. Se los va a extrañar, y mucho.
 
@@ -46,3 +48,5 @@ Gran comienzo de carrera, los felicitamos por la garra, los huevos, y los sacrif
 Con cariño,
 
 Fede y Alf
+
+:clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap:
