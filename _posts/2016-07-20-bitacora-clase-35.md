@@ -51,6 +51,7 @@ Con cariño,
 Fede y Alf
 
 ![cena.jpg](/img/2016-07-20/cena.jpg)
+
 ![concentrados.jpg](/img/2016-07-20/concentrados.jpg)
 
 
